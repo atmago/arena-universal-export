@@ -62,6 +62,13 @@ node --test
 
 修改后可将脚本粘贴到 Tampermonkey 测试。发布新功能时请同步更新脚本头部版本号与 `CHANGELOG.md`。
 
+## 贡献者
+
+- **[ChatGPT](https://chatgpt.com/)（OpenAI）**：脚本开发；通过 Codex 完成本仓库的开源整理、文档和基础测试。
+- **[atmago](https://github.com/atmago)**：需求提出、项目维护与开源发布。
+
+完整说明见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
+
 ## 许可证
 
 采用 [MIT License](LICENSE)。欢迎通过 Issue 反馈问题或提交 Pull Request。

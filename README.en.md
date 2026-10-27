@@ -49,4 +49,11 @@ node --test
 
 Tests cover script loading, conversation detection, message schemas, Battle grouping, Markdown generation, and API fallback. Simulated checks do not replace live-site verification. Update the metadata version and `CHANGELOG.md` when releasing functionality changes.
 
+## Contributors
+
+- **[ChatGPT](https://chatgpt.com/) (OpenAI)**: script development; repository preparation, documentation, and basic tests through Codex.
+- **[atmago](https://github.com/atmago)**: project requirements, maintenance, and open-source publication.
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for attribution details.
+
 Licensed under the [MIT License](LICENSE). Issues and pull requests are welcome.
